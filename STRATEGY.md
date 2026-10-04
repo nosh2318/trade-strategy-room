@@ -1,6 +1,6 @@
 # 売買戦略の全文
 
-版 r4 ・ 最終更新 2026-10-04 17:21 JST
+版 r5 ・ 最終更新 2026-10-04 17:27 JST
 
 > **LEGACY(旧版の記録)/ NOT VALID FOR CURRENT PRODUCTION:** この全文は2026-10-04朝時点のもので、ここにある高値ブレイクの「年率+7.6%」などは、実運用と条件が違う旧検証の数字です。実運用と同じ条件での正式な検証(Production-equivalent validation)は **PENDING(Macでの実行待ち)** です。
 >
