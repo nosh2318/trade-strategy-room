@@ -1,6 +1,6 @@
 # 売買戦略の全文
 
-版 r19 ・ 最終更新 2026-10-05 16:55 JST
+版 r20 ・ 最終更新 2026-10-05 19:14 JST
 
 > **LEGACY_RESULT + INVALID_FOR_PRODUCTION_DECISION(旧版の記録。r6で表示を強化):** この全文は2026-10-04朝時点のもので、ここにある高値ブレイクの「年率+7.6%」などは、実運用と条件が違う旧検証の数字です。実運用と同じ条件での正式な検証(Production-equivalent validation)は **PENDING(Macでの実行待ち)** です。
 >
